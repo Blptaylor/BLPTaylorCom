@@ -1,0 +1,31 @@
+/*
+Color Choices
+Light Blue #D5F7FF
+Dark Blue #494B67
+Hot Pink #FF006C
+Light Purple #ECEBFF
+http://colorhunt.co/c/95996
+
+Fonts
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+*/
+
+
+
+body {
+  margin: 1em;
+}
+
+h1 {
+	font-family: 'Fredericka the Great', cursive;
+}
+
+h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
